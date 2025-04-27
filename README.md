@@ -96,7 +96,7 @@ Bu güçlü analiz sistemi, aşağıdaki alanlarda önemli katkılar sağlayabil
 - **İleri Düzey Bilimsel Araştırmalar**: Karmaşık fenomenlerin çok boyutlu analizi
 - **Akademik Çalışmalar**: Disiplinler arası bağlantılar kurma ve bilgi sentezleme
 - **Eğitim Teknolojileri**: Öğrencilere bütünsel bilimsel bakış açısı kazandırma
-- **Endüstriyel Ar-Ge**: Çok boyutlu problemlere yenilikçi çözümler geliştirme
+- **Endüstriyel Ar-Ge**: Çok boyutlu problemlere yenilikçi çözümler geliştirme(Savunma Sanayi)
 - **Politika Geliştirme**: İklim değişikliği gibi karmaşık konularda karar verme süreçlerine destek
 - **Sürdürülebilirlik Analizleri**: Çevresel etki değerlendirmeleri ve ekosistem analizleri
 
