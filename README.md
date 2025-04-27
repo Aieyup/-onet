@@ -18,7 +18,7 @@ IO.net platformu ve iointel kütüphanesi üzerine inşa edilen bu sistem, paral
 ## Teknolojik Altyapı
 
 Sistem, son teknoloji yapay zeka modelleri ve yazılım mimarisi prensipleri üzerine inşa edilmiştir:
-- **io.net=INTELLIGANCE**: İlgili teknolojik altyapıların başta  Meta-Llama/Llama-3.3-70B-Instruct (varsayılan) başta olmak üzere çeşitli   LLM'lerin kullanılabilmesini sağlayan platform.
+- **io.net-INTELLIGANCE**: İlgili teknolojik altyapıların başta  Meta-Llama/Llama-3.3-70B-Instruct (varsayılan) başta olmak üzere çeşitli   LLM'lerin kullanılabilmesini sağlayan platform.
 - **Büyük Dil Modelleri**: Meta-Llama/Llama-3.3-70B-Instruct (varsayılan) başta olmak üzere çeşitli LLM'ler
 - **Dağıtık İşleme**: ThreadPoolExecutor ile paralel işleme yeteneği
 - **Modüler Tasarım**: Kolay genişletilebilir ve bakımı yapılabilir kod tabanı
