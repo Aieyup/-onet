@@ -130,3 +130,7 @@ Projeye katkıda bulunmak isteyenler için:
 Bu proje MIT lisansı altında dağıtılmaktadır. Detaylar için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
 
 
+## 📞 İletişim
+# Proje geliştirme ve işbirliği için:
+ - E-posta: [eyup.tp@hotmail.com](mailto:eyup.tp@hotmail.com)
+Proje hakkında soru ve geri bildirimleriniz için lütfen bu repository'de bir [issue oluşturun]
